@@ -61,10 +61,8 @@ I'm a full-stack developer, server administrator, and creative designer with dee
 
 ## 🚀 Currently Working On
 
-- Case studies for recent client projects
-- A public CodeIgniter-based backend system
-- A personal website for Yiontech with live demos
+- working on an LMS theme. 
 
 ---
 
-> ⭐ I'm open to collaborations, remote contracts, and custom development work.
+> ⭐ I'm open to collaborations, remote contracts, code debugging and custom development work.
