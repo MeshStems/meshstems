@@ -24,11 +24,11 @@ I'm a full-stack developer, server administrator, and creative designer with dee
 ---
 
 ## 🛠️ Skills & Tech Stack
-💻 **Code**: PHP (CodeIgniter, WordPress), JavaScript, HTML5, CSS3
-🎨 **Design**: Figma, Adobe Photoshop
-📡 **Servers**: Ubuntu, Apache/Nginx, MySQL, phpMyAdmin
-📬 **Email**: SMTP, MX records, SPF, DKIM, DMARC, Zoho, cPanel Mail
-🔐 **Security**: SSL setup, Cloudflare, Fail2Ban, UFW, backups
+💻 **Code**: PHP (CodeIgniter, WordPress), JavaScript, HTML5, CSS3  
+🎨 **Design**: Figma, Adobe Photoshop  
+📡 **Servers**: Ubuntu, Apache/Nginx, MySQL, phpMyAdmin  
+📬 **Email**: SMTP, MX records, SPF, DKIM, DMARC, Zoho, cPanel Mail  
+🔐 **Security**: SSL setup, Cloudflare, Fail2Ban, UFW, backups  
 📈 **Deployment**: Git, GitHub, FileZilla, terminal, Cron jobs
 
 ---
@@ -46,16 +46,17 @@ I'm a full-stack developer, server administrator, and creative designer with dee
 
 ## 📫 Let’s Connect
 
-- 🌐 **Website**: [meshstems.com](https://meshstems.com)
-- 📧 **Email**: [meshstems@gmail.com](mailto:meshstems@gmail.com)
-- 📱 **WhatsApp / Telegram**: [+2348039349280]
-- 🐦 **Twitter**: [@meshstems](https://twitter.com/meshstems)
+- 🌐 **Website**: [meshstems.com](https://meshstems.com)  
+- 📧 **Email**: [meshstems@gmail.com](mailto:meshstems@gmail.com)  
+- 📱 **WhatsApp / Telegram**: [+2348039349280]  
+- 🐦 **Twitter**: [@meshstems](https://twitter.com/meshstems)  
+- 📘 **Facebook**: [facebook.com/meshstems](https://facebook.com/meshstems)
 
 ---
 
 ## 🚀 Currently Working On
 
-- working on an WordPress LMS theme. and also a Moodle Theme.
+- working on a WordPress LMS theme. and also a Moodle Theme.
 
 ---
 
