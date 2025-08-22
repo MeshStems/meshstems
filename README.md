@@ -18,14 +18,8 @@ I'm a full-stack developer, server administrator, and creative designer with dee
 
 ## 🌐 Notable Projects
 
-### 🔹 [Pegez.com](https://pegez.com)
-> Designed and deployed the full frontend & backend, with responsive UI and custom features for content delivery and performance.
-
-### 🔹 [FSoB.co.uk](https://fsob.co.uk)
-> Complete web development and hosting setup, including security hardening, custom plugin features, and email configuration.
-
-### 🔹 Custom Plugin Work
-> Developed multiple proprietary WordPress plugins for CRMs, ticketing systems, user management, content expiry control, and more.
+### 🔹Livechat Customer support
+> Developed a plug and play livechat customer support thats lightweight and easy to install and comes with a powerful admin dashboard and also PHPmailer for smtp. 
 
 ---
 
